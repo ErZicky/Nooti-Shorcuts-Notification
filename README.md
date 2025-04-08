@@ -1,7 +1,7 @@
 # Nooti - Notification Shorcuts
 
 
-<img src="src/trans.png" width="432" align="center"   vspace="2"> 
+<img src="src/nooti_trans.png" width="432" align="center"   vspace="2"> 
 
 <b>Pin what matters most to you in your notifications shade and get to it in a few taps!</b>.
 
