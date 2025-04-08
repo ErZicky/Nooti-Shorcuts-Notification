@@ -1,7 +1,7 @@
 # Nooti - Notification Shorcuts
 
 
-<img src="src/noti trans.png" width="432" align="center"   vspace="2"> 
+<img src="src/noti trans.png" width="832" align="center"   vspace="2"> 
 
 <b>Pin what matters most to you in your notifications shade and get to it in a few taps!</b>.
 
@@ -22,17 +22,17 @@ Nooti is minimal productivity tool for android that lets you create a persistent
 
 📱 📞 🌐  App, Contacts & websites these are the 3 things, at the moment, you can put as shortcuts. Nooti will also try to fetch a favicon for the website
 
-<img src="src/not.png" width="432" align="center"   vspace="2"> 
+<img src="src/not.png" width="232" align="center"   vspace="2"> 
 
 
 🎨 Custom Icon Pack Support: you can use third-party icon packs currently installed to style your shortcuts to better match your phone style. If the pack has the right icon, Nooti will use it for the apps shortcuts!
 
-<img src="src/icon.png" width="432" align="center"   vspace="2"> 
+<img src="src/icon.png" width="232" align="center"   vspace="2"> 
 
 
 🔒 Working shortcuts in the lock screen: The shorcut notification are clickable and works in the lock screen too, saving you a few taps and seconds
 
-<img src="src/lock.png" width="432" align="center"   vspace="2"> 
+<img src="src/lock.png" width="232" align="center"   vspace="2"> 
 
 ⚡ Lightweight & Battery Friendly: Nooti has a minimal power usage, you won't feel anything battery wise when you have Nooti enabled
 
@@ -47,7 +47,7 @@ Nooti is minimal productivity tool for android that lets you create a persistent
 * Change if display or not the contacts photo and websites icons
 * And more
 
-  <img src="src/shub.png" width="432" align="center"   vspace="2"> 
+  <img src="src/shub.png" width="232" align="center"   vspace="2"> 
 
 Additionally, the settings panel provides convenient access to various useful resources, such as links to my other apps, a feedback button, credits etc...
 
