@@ -1,6 +1,9 @@
 all dates are in the dd-MM-YYYY format
 
-## 1.0.1 13-04-2025
+## 1.0.2 12-04-2025
+Fixed a bug where the app won't register purchased of premium package
+
+## 1.0.1 12-04-2025
 
 Fixed icon of contacts without photoù
 
