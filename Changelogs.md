@@ -14,9 +14,9 @@ Fixed a bug where the app won't register purchased of premium package
 
 ## 1.0.1 12-04-2025
 
-Fixed icon of contacts without photoù
+- Fixed icon of contacts without photo
 
-Reduced app download size
+- Reduced app download size
 
 
 ## 1.0.0 11-04-2025
