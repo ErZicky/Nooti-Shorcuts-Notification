@@ -1,5 +1,11 @@
 all dates are in the dd-MM-YYYY format
 
+
+## 1.1.0 17-04-2025
+- Added a search box for filtering the apps and contacts when creating a new notification
+
+- Improved app labeling for screen reading software
+
 ## 1.0.3 13-04-2025
 
 - added two settings under "looks" to manipulate the app icon in the notification: remove icon and force theme primary color
