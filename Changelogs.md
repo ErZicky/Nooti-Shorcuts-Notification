@@ -1,5 +1,13 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.1.1 19-04-2025
+
+- Fixed text not scaling correctly on some screens
+
+- Minor optimization
+
+- 🇮🇹Improved Italian translation
+
 
 ## 1.1.0 17-04-2025
 - Added a search box for filtering the apps and contacts when creating a new notification
