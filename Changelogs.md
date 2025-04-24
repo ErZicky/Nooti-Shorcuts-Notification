@@ -1,5 +1,10 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.1.2 23-04-2025
+
+- Fixed the subject text on the mail feedback
+
+
 ## 1.1.1 19-04-2025
 
 - Fixed text not scaling correctly on some screens
