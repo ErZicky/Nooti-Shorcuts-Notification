@@ -17,7 +17,7 @@ Nooti is minimal productivity tool for android that lets you create a persistent
 <img src="src/home.png" width="432" align="center"   vspace="2"> 
 
 
-✨​ Nooti's goal to give users a minimal and clean way to reach their favorites apps, contacts or website without cluttering their phone home in the leasst invasive way possible by giving the possibility of creating a notification with shortcusts to such apps. Nooti is functional and aesthetically pleasing at the same time
+✨​ Nooti's goal is to give users a minimal and clean way to reach their favorites apps, contacts or website without cluttering their phone home in the least invasive way possible by giving the possibility of creating a notification with shortcusts to such apps. Nooti is functional and aesthetically pleasing at the same time
 
 
 📱 📞 🌐  App, Contacts & websites these are the 3 things, at the moment, you can put as shortcuts. Nooti will also try to fetch a favicon for the website
