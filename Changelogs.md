@@ -1,5 +1,11 @@
 all dates are in the dd-MM-YYYY format
 
+
+
+## 1.1.3 9-05-2025
+
+- Fixed bug that lead to some crashes particularly on samsung devices
+
 ## 1.1.2 23-04-2025
 
 - Fixed the subject text on the mail feedback
