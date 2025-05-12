@@ -1,6 +1,12 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.2.0 13-05-2025
 
+Fixed "restart" spelled wrong in the general settings
+
+Added "restart last notification" button in the main menu, it'll appear only if the app manage to detect the last notification, so if you stop it manually with the stop button inside the app it won't be able to restart it
+
+MInor bug fixes
 
 ## 1.1.3 9-05-2025
 
