@@ -1,5 +1,10 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.2.1 03-06-2025
+Added new setting under "look" to reduce space between icons in the notification
+
+Fixed UI clipping in the home
+
 ## 1.2.0 13-05-2025
 
 Fixed "restart" spelled wrong in the general settings
