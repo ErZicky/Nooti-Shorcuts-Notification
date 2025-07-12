@@ -1,5 +1,8 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.3.0 12-07-2025
+Added a new type of shortcuts: whatsapp chats
+
 ## 1.2.1 03-06-2025
 Added new setting under "look" to reduce space between icons in the notification
 
