@@ -1,5 +1,10 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.3.1 26-07-2025
+Fixed a localization error
+
+Minor bug fixing
+
 ## 1.3.0 12-07-2025
 Added a new type of shortcuts: whatsapp chats
 
