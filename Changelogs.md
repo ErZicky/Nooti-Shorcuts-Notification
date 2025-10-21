@@ -1,5 +1,9 @@
 all dates are in the dd-MM-YYYY format
 
+## 1.3.23 22-10-2025
+
+Added a floating panel to make the creation screen more clear
+
 ## 1.3.1 26-07-2025
 Fixed a localization error
 
